@@ -17,3 +17,7 @@ Photos in `food/` come from Wikimedia Commons, resized. Each keeps its own licen
 | kentang-goreng.jpg | see source | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:French_Fries_(8556689169).jpg |
 | pisang-goreng.jpg | Supardisahabu | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pisang_Goreng.jpg |
 | cireng.jpg | Crisco 1492 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Rujak_cireng,_Purwokerto_2015-03-22.jpg |
+
+Photos in `tuku/` are Toko Kopi Tuku's own menu photos, from its GrabFood page
+(https://food.grab.com/id/id/restaurant/toko-kopi-tuku-kelapa-dua-delivery/6-C3BHGXXHEK6KRA).
+They belong to Toko Kopi Tuku. They are here only as demo data while developing, not for anything public.
